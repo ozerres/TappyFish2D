@@ -1,2 +1,2 @@
-# TappyFish2D
-First 2D game (Flappy Bird clone)
+# PA-TappyFish
+Panteon Akademi #2 Tappy Fish
